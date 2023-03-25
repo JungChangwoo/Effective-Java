@@ -1,4 +1,4 @@
-package item2_builderpattern;
+package chapter2.item2_builderpattern;
 
 import java.util.Objects;
 

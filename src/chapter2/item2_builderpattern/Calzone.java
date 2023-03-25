@@ -1,6 +1,4 @@
-package item2_builderpattern;
-
-import java.util.Objects;
+package chapter2.item2_builderpattern;
 
 public class Calzone extends Pizza {
     private final boolean sauceInside;
